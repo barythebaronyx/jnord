@@ -62,12 +62,12 @@
   --sn-stylekit-grey-4-opacity-variant: #bbbec43d;
   --sn-stylekit-grey-5: #494040;
   --sn-stylekit-grey-6: #342d2d;
-  --sn-stylekit-accessory-tint-color-1: var(--blue);
-  --sn-stylekit-accessory-tint-color-2: var(--red);
-  --sn-stylekit-accessory-tint-color-3: var(--yellow);
-  --sn-stylekit-accessory-tint-color-4: var(--cyan);
-  --sn-stylekit-accessory-tint-color-5: var(--green);
-  --sn-stylekit-accessory-tint-color-6: var(--orange);
+  --sn-stylekit-accessory-tint-color-1: #dfc7c1;
+  --sn-stylekit-accessory-tint-color-2: #f4dcd6;
+  --sn-stylekit-accessory-tint-color-3: #b2d9ea;
+  --sn-stylekit-accessory-tint-color-4: #84b4c8;
+  --sn-stylekit-accessory-tint-color-5: #619916;
+  --sn-stylekit-accessory-tint-color-6: #dfc7c1;
   --modal-background-color: var(--sn-stylekit-background-color);
   --editor-header-bar-background-color: var(--sn-stylekit-background-color);
   --back-editorground-color: var(--sn-stylekit-editor-background-color);
